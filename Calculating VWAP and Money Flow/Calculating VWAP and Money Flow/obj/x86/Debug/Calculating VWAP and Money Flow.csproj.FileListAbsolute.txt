@@ -1,0 +1,28 @@
+C:\Users\Home.PC\Documents\Visual Studio 2010\Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\bin\Debug\CIS 4620 Financial IT Assignment 3.exe
+C:\Users\Home.PC\Documents\Visual Studio 2010\Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\bin\Debug\CIS 4620 Financial IT Assignment 3.pdb
+C:\Users\Home.PC\Documents\Visual Studio 2010\Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\obj\x86\Debug\CIS 4620 Financial IT Assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\Home.PC\Documents\Visual Studio 2010\Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\obj\x86\Debug\CIS_4620_Financial_IT_Assignment_3.Form1.resources
+C:\Users\Home.PC\Documents\Visual Studio 2010\Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\obj\x86\Debug\CIS_4620_Financial_IT_Assignment_3.Properties.Resources.resources
+C:\Users\Home.PC\Documents\Visual Studio 2010\Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\obj\x86\Debug\CIS 4620 Financial IT Assignment 3.csproj.GenerateResource.Cache
+C:\Users\Home.PC\Documents\Visual Studio 2010\Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\obj\x86\Debug\CIS 4620 Financial IT Assignment 3.exe
+C:\Users\Home.PC\Documents\Visual Studio 2010\Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\obj\x86\Debug\CIS 4620 Financial IT Assignment 3.pdb
+C:\Users\Home.PC\Documents\Visual Studio 2010\Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\bin\Debug\Bloomberglp.Blpapi.dll
+C:\Users\Home.PC\Documents\Visual Studio 2010\Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\bin\Debug\Bloomberglp.Blpapi.xml
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\obj\x86\Debug\CIS 4620 Financial IT Assignment 3.exe
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\obj\x86\Debug\CIS 4620 Financial IT Assignment 3.pdb
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\bin\Debug\CIS 4620 Financial IT Assignment 3.exe
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\bin\Debug\CIS 4620 Financial IT Assignment 3.pdb
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\bin\Debug\Bloomberglp.Blpapi.xml
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\obj\x86\Debug\CIS 4620 Financial IT Assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\obj\x86\Debug\CIS_4620_Financial_IT_Assignment_3.Form1.resources
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\obj\x86\Debug\CIS_4620_Financial_IT_Assignment_3.Properties.Resources.resources
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\CIS 4620 Financial IT Assignment 3\CIS 4620 Financial IT Assignment 3\obj\x86\Debug\CIS 4620 Financial IT Assignment 3.csproj.GenerateResource.Cache
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Calculating VWAP and Money Flow\Calculating VWAP and Money Flow\bin\Debug\CIS 4620 Financial IT Assignment 3.exe
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Calculating VWAP and Money Flow\Calculating VWAP and Money Flow\bin\Debug\CIS 4620 Financial IT Assignment 3.pdb
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Calculating VWAP and Money Flow\Calculating VWAP and Money Flow\bin\Debug\Bloomberglp.Blpapi.xml
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Calculating VWAP and Money Flow\Calculating VWAP and Money Flow\obj\x86\Debug\Calculating VWAP and Money Flow.csprojResolveAssemblyReference.cache
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Calculating VWAP and Money Flow\Calculating VWAP and Money Flow\obj\x86\Debug\CIS_4620_Financial_IT_Assignment_3.Form1.resources
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Calculating VWAP and Money Flow\Calculating VWAP and Money Flow\obj\x86\Debug\CIS_4620_Financial_IT_Assignment_3.Properties.Resources.resources
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Calculating VWAP and Money Flow\Calculating VWAP and Money Flow\obj\x86\Debug\Calculating VWAP and Money Flow.csproj.GenerateResource.Cache
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Calculating VWAP and Money Flow\Calculating VWAP and Money Flow\obj\x86\Debug\CIS 4620 Financial IT Assignment 3.exe
+C:\Users\Home.PC\Desktop\CIS 4620 Projects\Calculating VWAP and Money Flow\Calculating VWAP and Money Flow\obj\x86\Debug\CIS 4620 Financial IT Assignment 3.pdb
