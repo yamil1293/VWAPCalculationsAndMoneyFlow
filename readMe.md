@@ -3,7 +3,7 @@
 
 [![Build Status][travis-image]][travis-url]
 
-![](demo.png)
+![](demo.PNG)
 
 ## Installation
 Needs Visual Studio and a connection to Bloomberg Terminal in order to run this Windows Form.
