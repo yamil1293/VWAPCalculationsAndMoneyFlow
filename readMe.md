@@ -1,4 +1,4 @@
-# Product Name
+# VWAPCalculator
 > A form that provides the price, volume and VWAP for a stock.
 
 [![Build Status][travis-image]][travis-url]
@@ -6,13 +6,12 @@
 ![](demo.png)
 
 ## Installation
-Needs Visual Studio and a connection to Bloomberg Terminal to run this Windows Form.
+Needs Visual Studio and a connection to Bloomberg Terminal in order to run this Windows Form.
 
 ## Instructions
 The VWAP & Money Flow Calculator works by inputting a stock symbol in its respective field. Then by pressing Start, the form will provide the Price, Volume and VWAP numbers in their respective fields and plot them on a graph in real time.
 
 * Created using Visual Studio 2010 as a Windows Forms Project
-* Requires a connection to the Bloomberg Terminal for this project to work
 
 ## Meta
 [Yamil Burgos](https://github.com/yamilburgos/) – yamil.burgos1293@gmail.com
