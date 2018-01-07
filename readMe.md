@@ -1,8 +1,6 @@
 # VWAPCalculator
 > A form that provides the price, volume and VWAP for a stock.
 
-[![Build Status][travis-image]][travis-url]
-
 ![](demo.PNG)
 
 ## Installation
@@ -22,9 +20,3 @@ The VWAP & Money Flow Calculator works by inputting a stock symbol in its respec
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
